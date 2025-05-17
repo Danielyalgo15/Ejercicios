@@ -1,0 +1,1 @@
+notificacle.Notificable
